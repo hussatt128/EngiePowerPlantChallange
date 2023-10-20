@@ -1,0 +1,12 @@
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\bin\Debug\net7.0\EngiePowerPlantBL.deps.json
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\bin\Debug\net7.0\EngiePowerPlantBL.dll
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\bin\Debug\net7.0\EngiePowerPlantBL.pdb
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.AssemblyInfoInputs.cache
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.AssemblyInfo.cs
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.csproj.CoreCompileInputs.cache
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.dll
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\refint\EngiePowerPlantBL.dll
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.pdb
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\ref\EngiePowerPlantBL.dll
+C:\Users\91974\OneDrive\Desktop\EngiePowerplantChallenge\EngiePowerPlantChallange\EngiePowerPlantBL\obj\Debug\net7.0\EngiePowerPlantBL.csproj.AssemblyReference.cache
